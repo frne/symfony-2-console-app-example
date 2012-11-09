@@ -1,0 +1,14 @@
+{
+    "name": "ymc/demo-console-app",
+    "description": "A demo console application based on the symfony/console component",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/console": "dev-master"
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev"
+}
